@@ -1,7 +1,7 @@
 # eps_eri_cube
 
-This repository contains the data cube (an [xarray](https://xarray.dev/) `DataArray`) used in Jiang et al. 2022 _Revisiting ε Eridani with NEID: 
-Identifying New Activity-Sensitive Lines in a Young K Dwarf Star_ (in prep). The cube contains all line parameters (centroid, depth, FWHM, and integrated 
+This repository contains the data cube (an [xarray](https://xarray.dev/) `DataArray`) used in Jiang et al. 2023 _Revisiting ε Eridani with NEID: 
+Identifying New Activity-Sensitive Lines in a Young K Dwarf Star_ (in press). The cube contains all line parameters (centroid, depth, FWHM, and integrated 
 flux) for each line in the compiled line list over 32 NEID observations of ε Eridani, as well as the measured RV and activity indices for each 
 observation. For information on how the line parameters are measured, see the paper.
 
